@@ -19,7 +19,7 @@
     "vue-axios": "^3.2.4",
     "vuelidate": "^0.7.6",
     "vuex-router-sync": "^5.0.0",
-    "xlsx": "^0.17.0"
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@quasar/app": "^2.0.0",
