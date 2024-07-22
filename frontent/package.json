@@ -12,7 +12,7 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "@websanova/vue-auth": "file:@websanova/vue-auth",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "chart.js": "^3.3.2",
     "core-js": "^3.6.5",
     "quasar": "^1.0.0",
